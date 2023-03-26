@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Its-maruan!!](https://github.com/UZ1-MAN/)
+## Hey 👋, I'm [Its-maruan!!](https://github.com/maruancanfly)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=V3-Sky.V3-Skyi&style=flat-square&color=0088cc)
 I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into My CTF(Capture The Flag) 🕸️ and Creating i create more tools that benefit the information society!!🤓.
@@ -13,7 +13,7 @@ Joined Github **1** years ago.
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sky3w0dy)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/maruancanfly/)
   
-<img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/Its-Sn1p3r/Its-Sn1p3r/master/coder1.gif" />
+<img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/maruancanfly/maruancanfly/master/coder1.gif" />
 
 
 ### My Absolute Favorites:
