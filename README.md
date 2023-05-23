@@ -14,7 +14,7 @@ Joined Github **1** years ago.
   
 <img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/maruancanfly/maruancanfly/master/coder1.gif" />
 [![maruancanfly's tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/maruancanfly.png)](https://tryhackme-badges.s3.amazonaws.com/maruancanfly.png)
-
+![tryhackme stats](https://raw.githubusercontent.com/maruancanfly/maruancanfly/master/assets/maruancanfly.png)
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
