@@ -13,13 +13,12 @@ Joined Github **1** years ago.
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/maruancanfly/)
   
 <img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/maruancanfly/maruancanfly/master/coder1.gif" />
-<script src="https://tryhackme.com/badge/579374"></script>
 
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 🍕 &nbsp; Hackathons, meetups & tech events.<script src="https://tryhackme.com/badge/579374"></script>
 
 ### Talking about Personal Stuffs:
 - 🛠 &nbsp; I’m currently working with Python, Linux, Powershell, Windows etc.
