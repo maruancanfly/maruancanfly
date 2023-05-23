@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+maruan+-+aka+maruancanfly)](https://git.io/typing-svg)
+
 ## Hey 👋, I'm [maruan !!!](https://github.com/maruancanfly)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=V3-Sky.V3-Skyi&style=flat-square&color=0088cc)
