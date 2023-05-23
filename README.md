@@ -13,7 +13,7 @@ Joined Github **1** years ago.
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/maruancanfly/)
   
 <img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/maruancanfly/maruancanfly/master/coder1.gif" />
-![tryhackme stats](https://raw.githubusercontent.com/maruancanfly/maruancanfly/master/assets/tryhackme.png)
+![maruancanfly's tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/maruancanfly.png)][tryhackme]
 
 
 ### My Absolute Favorites:
