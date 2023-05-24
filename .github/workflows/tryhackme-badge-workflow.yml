@@ -13,4 +13,4 @@ jobs:
       - uses: maruancanfly/tryhackme-badge-workflow@main
         with:
           username: "maruancanfly"
-          GITHUB_TOKEN: ${{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}}
+          GITHUB_TOKEN: ${{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}}
