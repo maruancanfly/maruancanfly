@@ -1,16 +1,1 @@
-name: TryHackMe Update Badge
 
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-jobs:
-  tryhackme-badge-update:
-    name: Update this repo's tryhackme badge with the latest tryhackme image badge
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: maruancanfly/tryhackme-badge-workflow@main
-        with:
-          username: "maruancanfly"
-          GITHUB_TOKEN: ${{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}}
