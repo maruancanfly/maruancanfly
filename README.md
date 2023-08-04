@@ -35,4 +35,4 @@ Joined Github **3** years ago.
 
 [<img src="https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" />](https://open.spotify.com/embed/playlist)
 
-[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
+[<img style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></img>](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
