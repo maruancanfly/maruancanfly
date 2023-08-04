@@ -15,13 +15,13 @@ Joined Github **3** years ago.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marouane-benzidane-939111228/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/maruancanfly)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/maruancanfly/)
+
 ![tryhackme stats](https://raw.githubusercontent.com/maruancanfly/maruancanfly/main/assets/maruancanfly.png)
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-
 ### Talking about Personal Stuffs:
 - 🛠 &nbsp; I’m currently working with Python, Linux, Powershell, Windows etc.
 - 🚀 &nbsp; I’m currently learning Offensive Security.
