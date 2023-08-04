@@ -33,6 +33,6 @@ Joined Github **3** years ago.
 ### Spotify Playing 🎧
 [<img src="https://novatorem-git-main-maruancanfly.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
 
-[<img src="https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" />](https://open.spotify.com/embed/playlist)
+[<img src="https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" />](https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld)
 
 [<img style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></img>](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
