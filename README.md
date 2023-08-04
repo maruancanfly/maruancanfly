@@ -30,4 +30,4 @@ Joined Github **3** years ago.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/maruancanfly/maruancanfly/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[<img src="https://novatorem-eight-weld.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/7cbf57155d5844bb91d40c3a325d0c9c)
