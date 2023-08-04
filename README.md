@@ -32,4 +32,4 @@ Joined Github **3** years ago.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
   
  ### Spotify Playing 🎧
-[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=53b14f" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
