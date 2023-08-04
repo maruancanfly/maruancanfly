@@ -11,11 +11,11 @@ Joined Github **3** years ago.
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=maruancanfly&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   
 <img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/maruancanfly/maruancanfly/master/coder1.gif" />
-  
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marouane-benzidane-939111228/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/maruancanfly)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/maruancanfly/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
 
 
 ![tryhackme stats](https://raw.githubusercontent.com/maruancanfly/maruancanfly/main/assets/maruancanfly.png)
