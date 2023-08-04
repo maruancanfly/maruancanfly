@@ -31,6 +31,8 @@ Joined Github **3** years ago.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
 ### Spotify Playing 🎧
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
+
 [<img src="https://novatorem-git-main-maruancanfly.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
 
 ### Spotify Playing 🎧
