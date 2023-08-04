@@ -31,10 +31,4 @@ Joined Github **3** years ago.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&cover_image=true&theme=default&show_offline=true&background_color=241f31&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
-
-
-[<iframe src="https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld?utm_source=generator" style="border-radius:12px" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" />](https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld)
-
-
-[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld?utm_source=generator" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" width="100%" height="352" frameborder="0"></iframe>](https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld)
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&cover_image=true&theme=default&show_offline=true&background_color=241f31&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
