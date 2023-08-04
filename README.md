@@ -33,10 +33,10 @@ Joined Github **3** years ago.
 ### Spotify Playing 🎧
 [[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&cover_image=true&theme=default&show_offline=true&background_color=241f31&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
 
-[<img src="https://novatorem-git-main-maruancanfly.vercel.app/api/spotify-playing](https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&cover_image=true&theme=default&show_offline=true&background_color=241f31&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&cover_image=true&theme=default&show_offline=true&background_color=241f31&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
 
 ### Spotify Playing 🎧
-[<img src="https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld?utm_source=generator](https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&cover_image=true&theme=default&show_offline=true&background_color=241f31&interchange=false&bar_color=53b14f&bar_color_cover=false" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" />](https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld)
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&cover_image=true&theme=default&show_offline=true&background_color=241f31&interchange=false&bar_color=53b14f&bar_color_cover=false" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" />](https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld)
 
 ### Spotify Playing 🎧
 [<img style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4tzrmo8ZJNIUkp1KKVI5ld?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></img>](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
