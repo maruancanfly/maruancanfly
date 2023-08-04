@@ -15,7 +15,7 @@ Joined Github **3** years ago.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marouane-benzidane-939111228/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/maruancanfly)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/maruancanfly/)
-[![Spotify Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/512px-Spotify_icon.svg.png?20220821125323)](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
 
 
 ![tryhackme stats](https://raw.githubusercontent.com/maruancanfly/maruancanfly/main/assets/maruancanfly.png)
