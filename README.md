@@ -13,13 +13,12 @@ Joined Github **3** years ago.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marouane-benzidane-939111228/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/maruancanfly)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/maruancanfly/)
+<img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/maruancanfly/maruancanfly/master/coder1.gif" />
+![tryhackme stats](https://raw.githubusercontent.com/maruancanfly/maruancanfly/main/assets/maruancanfly.png)
 
  ### Spotify Playing 🎧
 [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&cover_image=true&theme=default&show_offline=true&background_color=241f31&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
 
-<img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/maruancanfly/maruancanfly/master/coder1.gif" />
-
-![tryhackme stats](https://raw.githubusercontent.com/maruancanfly/maruancanfly/main/assets/maruancanfly.png)
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
