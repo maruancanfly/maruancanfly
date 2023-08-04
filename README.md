@@ -17,7 +17,10 @@ Joined Github **3** years ago.
 <img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/maruancanfly/maruancanfly/master/coder1.gif" />
 
 ![tryhackme stats](https://raw.githubusercontent.com/maruancanfly/maruancanfly/main/assets/maruancanfly.png)
- 
+
+ ### Spotify Playing 🎧
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&cover_image=true&theme=default&show_offline=true&background_color=241f31&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
+
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
@@ -29,6 +32,3 @@ Joined Github **3** years ago.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/maruancanfly).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/maruancanfly/maruancanfly/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-
-### Spotify Playing 🎧
-[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31oh3f63ufrownkqlg2gvidraapy&cover_image=true&theme=default&show_offline=true&background_color=241f31&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31oh3f63ufrownkqlg2gvidraapy)
